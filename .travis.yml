@@ -43,7 +43,6 @@ before_install:
  - npm --version
  - PUBLISH_BINARY=false
  - REPUBLISH_BINARY=false
- - npm cache clean
 
 install:
  - if [[ "${CXX}" =~ "g++" ]]; then export JOBS=2; fi;

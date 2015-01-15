@@ -37,7 +37,7 @@
       }
   ],
   "dependencies"  : {
-      "nan": "https://github.com/rvagg/nan/tarball/master",
+      "nan": "https://github.com/bnoordhuis/nan/tarball/master",
       "mapnik-vector-tile": "~0.6.2",
       "node-pre-gyp": "~0.6.1"
   },
